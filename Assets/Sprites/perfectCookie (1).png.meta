@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      perfectCookie (1)_0: 6597129516142786524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

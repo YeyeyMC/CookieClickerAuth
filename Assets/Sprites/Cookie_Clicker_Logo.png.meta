@@ -198,7 +198,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cookie_Clicker_Logo_0: 1218693828827023570
+      Cookie_Clicker_Logo_1: -7668125107329147457
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
